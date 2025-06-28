@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RENA 
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning working as an AI/ML developer
+- 🌱 I’m currently working as an AI/ML developer
 - 💞️ I’m looking to collaborate on any new project
 - 📫 How to reach me mail nwaliphilip@gmail.com
 
