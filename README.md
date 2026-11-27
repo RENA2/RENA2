@@ -1,5 +1,5 @@
 
- Hi, I'm Philip 👋
+ Hi, I'm Philip 
 
 Applied geology student in Nigeria, learning to build software. I'm focused on Python and backend development, with machine learning as the next step.
 
