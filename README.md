@@ -1,43 +1,28 @@
-Nwali Philip
-AI Researcher & Developer | Nigeria
 
-👋 Hi there! I'm Nwali Philip, an AI enthusiast and developer from Nigeria. I work on various Artificial Intelligence (AI) projects, including machine learning, deep learning, computer vision, natural language processing, and more.
+ Hi, I'm Philip 👋
 
-🔧 Skills & Expertise
-Machine Learning & Deep Learning (TensorFlow, PyTorch, Scikit-learn)
+Applied geology student in Nigeria, learning to build software. I'm focused on Python and backend development, with machine learning as the next step.
 
-Computer Vision (OpenCV, YOLO, Image Processing)
+ What I'm working on
+- Learning Python and backend development, building my first projects
+- Studying statistics and mathematics alongside my geology degree
+- Planning to move into machine learning with PyTorch, starting with image classification
 
-Natural Language Processing (NLP) (Transformers, BERT, GPT, NLTK)
+ Background
+- Studying Applied Geology (5-year program)
+- Built a product catalog website for a friend's streetwear brand
+- Write technical analysis content on crypto markets
+- Freelance writer, specializing in property and land descriptions
 
-AI Model Deployment (Flask, FastAPI, Docker, ONNX)
+ Tools I'm learning
+Python · Git & GitHub · FastAPI · PyTorch
 
-Data Science & Analytics (Pandas, NumPy, Matplotlib)
+ Projects
+My first projects are coming soon. I'll add each one here with a short write-up of what I built and learned.
 
-Programming Languages (Python, R, JavaScript)
+ Get in touch
+- Email: nwaliphilip@gmail.com
+- X: @nwliphilip
 
-🚀 Projects
-Here are some of the AI projects I’ve worked on:
-
-Object detection system with YOLOv8 
-
-Predictive analytics for healthcare
-
-
-📫 Let’s Connect
-I’m always open to collaborations, discussions, and opportunities in AI. Feel free to reach out!
-
-Email: nwaliphilip@gmail.com
-
-LinkedIn: Philip Nwali
-
-Twitter/X: @nwaliphilip_
-
-
-🌟 Support & Feedback
-If you find my work interesting, consider giving it a ⭐ on GitHub! Your feedback and suggestions are always welcome.
-
-Let’s build the future of AI together! 🤖🚀
-
-© 2024 Nwali Philip | Made with ❤️ for AI
+Open to feedback, advice, and beginner-friendly collaboration.
 
