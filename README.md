@@ -22,7 +22,7 @@ My first projects are coming soon. I'll add each one here with a short write-up 
 
 ## Get in touch
 - Email: nwaliphilip@gmail.com
-- X: @nwliphilip
+- X: @nwliphilip / https://x.com/nwliphilip
 
 Open to feedback, advice, and beginner-friendly collaboration.
 
